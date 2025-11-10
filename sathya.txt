@@ -1,1 +1,1 @@
-In full stack development we have the languages like html,css,javascript,bootstrap,springboot.
+In full stack development we have the languages like html,css,javascript,bootstrap,springboot,git,react.js.
